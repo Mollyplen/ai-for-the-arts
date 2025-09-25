@@ -1,3 +1,4 @@
 # ai-for-the-arts
 
-hello 
+To learn more about ai and the ways it is being used around  
+the world. 
